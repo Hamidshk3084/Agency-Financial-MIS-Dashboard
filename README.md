@@ -54,8 +54,7 @@ This page explains **why** the numbers look the way they do.
 
 ## 📂 Repository Contents
 - `data/` – Dataset used for the analysis  
-- `report/` – Final exported MIS dashboard (PDF)  
-- `screenshots/` – Dashboard preview images  
+- `report/` – Final exported MIS dashboard (PDF abd pbix)  
 
 ---
 
